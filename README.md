@@ -3,6 +3,7 @@
 
 
 ##Compiling
+
 To compile you must have Gradle then run `./gradlew build` in your terminal
 
 **This is _only_ tested in Windows**
