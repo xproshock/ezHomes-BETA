@@ -35,5 +35,3 @@ ezHomes is tested on Minecraft Java version 1.21.4 on a PaperMC server but might
 ## Compiling
 
 To compile you must have Gradle then run `./gradlew build` in your terminal
-
-**This is _only_ tested in Windows**
