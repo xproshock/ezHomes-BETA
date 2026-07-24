@@ -16,6 +16,7 @@
 
 > The permissions that are used for features in the plugin
 
+> [!NOTE]
 > Note that all current command permissions are given by default to all players
 
 - ezhomes.home
